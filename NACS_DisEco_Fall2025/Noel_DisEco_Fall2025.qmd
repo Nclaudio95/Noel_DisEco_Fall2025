@@ -1,0 +1,23 @@
+---
+title: "NACS_DisEco_Fall2025"
+author: "Noel Claudio"
+format: html
+editor: visual
+---
+
+## 
+
+```{r}
+# Function to calculate the area of a circle
+area_of_circle <- function(radius) {
+  area <- pi * radius^2
+  return(area)
+}
+radius <- 5 # from the example
+circle_area <- area_of_circle(radius)
+cat("The area of the circle with radius", radius, "is", circle_area, "\n")
+```
+
+![](images/clipboard-3760563717.png)
+
+**Image description:** The image represents the Disease triad or Disease triangle. It shows the influence of the environment with the pathogen and the host and helps us understand what factors are needed for successful pathogen infection. It can also help predict disease outcome.
