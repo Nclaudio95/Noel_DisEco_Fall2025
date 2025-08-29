@@ -1,2 +1,2 @@
-# Noel_-DisEco_Fall2025
+# Noel_DisEco_Fall2025
 Repository of Disease Ecology Assignments.
