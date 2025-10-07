@@ -51,3 +51,70 @@ n= 300 animals sampled
 3/300 animals sampled from the herd = **0.01** or **1%.**
 
 I'm 95% confident that the prevalence of EHD is **1%.**
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**Worksheet #3**
+
+Oct-7-25
+
+Jan’s research focused on an elk herd housed in an exclosure. The herd size is 56. Her data shows that an outbreak of conjunctivitis started on 10^th^ June 2025. She meticulously documented the progress of the outbreak in this herd. Her observations of affected elk are as follows:
+
+RE: red eyes; OD: ocular discharge; NAD: no abnormality detected
+
+![](images/clipboard-1916663036.png){width="514"}
+
+Recovered elk are immune (not susceptible) to conjunctivitis for 6 months. There were no infected elk in the herd after 06/16/25.
+
+Show your work.
+
+**a) Find incidence on day 06/12/25, 06/14/25 and 06/15/25. Write the unit for incidence.** (9 points)
+
+**06/12/25**\
+Since the beginning of the study until 06/12/25 there were 5 new cases of conjunctivitis.
+
+Calculation 5/51x100= **0.09 or 9.80% cases per elk-day.**
+
+**06/14/25/25**
+
+On this date 2 new cases appeared of conjunctivitis
+
+Calculation 2/44x100= **0.045% or 4.5% cases per elk-day**
+
+**06/15/25**
+
+On this date 0 new cases were registered of conjuctivitis
+
+Calculation 0/42x100= **0% cases per elk-day**
+
+**b) What is the prevalence of conjunctivitis on 06/13/25 and 06/16/25? What is the unit for prevalence.** (5 points)
+
+**The prevalence for 06/13/25**
+
+Cumulative cases 12
+
+Total population 56
+
+Calculation\
+\
+12/56x100= **21.42%**
+
+**The prevalence for 06/16/25**
+
+Cumulative 5 (because 9 animals recovered)
+
+Total population 56\
+
+5/56x100= **8.92%**
+
+**c) On which day is the prevalence same as the incidence (except the units)? (3 points)**
+
+**On 06/10/25 the incidence and prevalence are the same.**
+
+The was a report with 1 infected animal. For incidence 1/55x100= **1.88%** cases per elk-day and prevalence was 1/56X100= **1.78** which can be rounded to **1.8%.**
+
+**d) On which day is the incidence lowest?  (3 points)**
+
+On **06/15/25** the incidence was the lowest cause there was 0 reported new cases of conjunctivitis. Followed by **06/16/25** which also had 0 new cases. They both had an incidence of 0%.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
