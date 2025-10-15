@@ -124,3 +124,155 @@ On **06/15/25** the incidence was the lowest cause there was 0 reported new case
 In the first part of the lab, we examined different life stages of lone star ticks by counting the number of legs given that they're arachnids. One specimen had six legs, identifying it as a larva, while two specimens had eight legs, this indicated they were either nymphs or adults. In the second part, we differentiated male and female lone star ticks based on the scutum's appearance. The male was shinier and displayed a distinct white splotch or star, whereas the female had a softer appearance with visible lines on the scutum. The bottom specimen was identified as the male and the top specimen as the female.
 
 For the third slide, we focused on determining the genus by observing the position of the anal groove. The anal groove was anterior to the anus, the specimen was identified as *Ixodes scapularis*. Both ticks were adults, and the left specimen was larger with a clearly visible anal groove. In the final observation, we examined a tick with eight legs and a central genital pore, confirming it was in its adult stage. The absence of an anterior anal groove, along with long mouthparts and an ornate scutum, led to its identification as Gulf Coast tick, specifically an adult male.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**Make up midterm exam questions (Oct 15,2025) \
+\
+Question 9.** Define R0. Estimate the R0 for the following scenario. Red flamingo represents and infectious case, and blue are susceptible: an arrow indicates transmission. Explain your findings in the context of real-world utility of R0.
+
+**Scenario 1.** R0=1
+
+**Scenario 2.** R0= 3
+
+**Scenario 3.** R0=2
+
+**Scenario 4.** R0=0
+
+Calculating the R0.
+
+R0= 1+3+2+0 new cases/ 4 infected individuals= 6/4= **1.5**
+
+R0=**1.5**
+
+**Explanation:** Since the R0 is higher than one we can estimate that this infection could keep spreading. This means that 1 infected individual could infect in theory 1.5 individuals and an outbreak can occur.
+
+**Question 10.** Steve studies a population of the Swannee Alligator snapping turtle (macrochelys suwanniensis) in Florida. He has been conducting a mark-recapture study of this population since 2010. Since 2015, he has documented cases of cutaneous fibroma in this population. The following data was collected by Steve:\
+\
+
+| Year | Population Estimate | Turtle with Fibroma: Old cases | Turtles with Fibroma: New cases |
+|----|----|----|----|
+| 2015 | 133 | 0 | 4 |
+| 2016 | 125 | 2 | 5 |
+| 2017 | 112 | 4 | 8 |
+| 2018 | 145 | 5 | 4 |
+| 2019 | 136 | 4 | 2 |
+|  |  |  |  |
+
+Turtles without visible fibroma are considered susceptible to disease.
+
+A\) Which year has the highest incidence of turtle fibroma? Make sure you write the appropriate unit for incidence value. Show your work.
+
+**Equation for incidence**
+
+**Incidence**= New cases/ population at risk ( total- old cases)
+
+**2015**
+
+new cases: 4
+
+Old cases: 0
+
+Population: 133
+
+**Incidence: 4/133= 0.03 or 3% cases per turtle year**
+
+**2016**
+
+new cases: 5
+
+Old cases: 2
+
+Population: 125-2= 123
+
+**Incidence= 5/123= 0.040 or 4.0% cases per turtle year**
+
+**2017 \<------------Year with the highest incidence of Fibroma in turtles**
+
+new cases: 8
+
+Old cases: 4
+
+Population: 112-4=108
+
+**Incidence: 8/ 108= 0.074 or 7.4% cases per turtle year**
+
+**2018**
+
+new cases: 4
+
+Old cases: 5
+
+Population: 145-5=140
+
+**Incidence= 4/140=0.028 or 2.8% cases per turtle year**
+
+**2019**
+
+new cases: 2
+
+Old cases: 4
+
+Population: 136-4=132
+
+**Incidence= 2/136= 0.14 or 1.4% cases per turtle year**
+
+**Answer for question 10 part A:** **2017** had the highest incidence of fibroma in turtles with 0.074 or 7.4% cases per turtle year.
+
+B\) When is the prevalence lowest? When is the prevalence highest?
+
+**Equation for prevalence**
+
+Prevalence= \# of infected/ Population
+
+**2015 \<--------------Year with the lowest prevalence for fibroma in turtles**
+
+New cases: 4
+
+Old Cases: 0
+
+Population: 133
+
+**Prevalence= 4/133=0.03% or 3%**
+
+**2016**
+
+New cases: 5
+
+Old Cases: 2
+
+Population: 125
+
+**Prevalence= 7/125= 0.56 or 5.6%**
+
+**2017 \<-------------- Year with the highest prevalence for Fibroma in Turtles**
+
+New cases: 8
+
+Old Cases: 4
+
+Population: 112
+
+**Prevalence= 12/112= 0.107 or 10.71%**
+
+**2018**
+
+New cases: 4
+
+Old Cases: 5
+
+Population: 145
+
+**Prevalence= 9/145= 0.062 or 6.20%**
+
+**2019**
+
+New cases: 2
+
+Old Cases: 4
+
+Population: 136
+
+**Prevalence= 6/136= 0.044 or 4.41%**
+
+**Answer for question 10 part B:** **2015** had the lowest prevalence of fibroma in turtles with a prevalence of **3%** and **2017** had the highest prevalence of fibroma with a prevalence of **10.71%.**
