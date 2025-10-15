@@ -118,3 +118,9 @@ The was a report with 1 infected animal. For incidence 1/55x100= **1.88%** cases
 On **06/15/25** the incidence was the lowest cause there was 0 reported new cases of conjunctivitis. Followed by **06/16/25** which also had 0 new cases. They both had an incidence of 0%.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**Tick Identification Lab (October 8, 2025)**
+
+In the first part of the lab, we examined different life stages of lone star ticks by counting the number of legs given that they're arachnids. One specimen had six legs, identifying it as a larva, while two specimens had eight legs, this indicated they were either nymphs or adults. In the second part, we differentiated male and female lone star ticks based on the scutum's appearance. The male was shinier and displayed a distinct white splotch or star, whereas the female had a softer appearance with visible lines on the scutum. The bottom specimen was identified as the male and the top specimen as the female.
+
+For the third slide, we focused on determining the genus by observing the position of the anal groove. The anal groove was anterior to the anus, the specimen was identified as *Ixodes scapularis*. Both ticks were adults, and the left specimen was larger with a clearly visible anal groove. In the final observation, we examined a tick with eight legs and a central genital pore, confirming it was in its adult stage. The absence of an anterior anal groove, along with long mouthparts and an ornate scutum, led to its identification as Gulf Coast tick, specifically an adult male.
