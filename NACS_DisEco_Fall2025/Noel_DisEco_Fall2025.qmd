@@ -127,7 +127,7 @@ For the third slide, we focused on determining the genus by observing the positi
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**Make up midterm exam questions (Oct 15,2025) \
+**Make up midterm exam questions (Oct 15,2025)\
 \
 Question 9.** Define R0. Estimate the R0 for the following scenario. Red flamingo represents and infectious case, and blue are susceptible: an arrow indicates transmission. Explain your findings in the context of real-world utility of R0.
 
@@ -151,7 +151,7 @@ R0=**1.5**
 \
 
 | Year | Population Estimate | Turtle with Fibroma: Old cases | Turtles with Fibroma: New cases |
-|----|----|----|----|
+|------------------|------------------|------------------|------------------|
 | 2015 | 133 | 0 | 4 |
 | 2016 | 125 | 2 | 5 |
 | 2017 | 112 | 4 | 8 |
@@ -276,3 +276,37 @@ Population: 136
 **Prevalence= 6/136= 0.044 or 4.41%**
 
 **Answer for question 10 part B:** **2015** had the lowest prevalence of fibroma in turtles with a prevalence of **3%** and **2017** had the highest prevalence of fibroma with a prevalence of **10.71%.**
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Worksheet #4 October 23,2025
+
+**MERS-CoV**
+
+Middle East respiratory syndrome coronavirus (MERS-CoV) is mostly found in camels (dromedaries), and direct physical contact with camels can lead to transmission to humans. Limited human-to-human transmission can occur after close contact and has resulted in health care–associated outbreaks. Human MERS-CoV infection can cause severe respiratory illness; approximately 35% of reported MERS cases have died.
+
+Distribution of confirmed cases of MERS by place of infection and month of onset, April 2012 – September 2025 (European Centre for Disease Prevention and Control)
+
+![](images/clipboard-3968567455.png)
+
+Which of the following statements about MERS-CoV are correct? *(If it is incorrect, provide an explanation why the statement is incorrect.)*
+
+1.  MERS-CoV is primarily maintained in human populations. (2 points)
+
+    No, the MERS-Cov is maintained in camels which are the reservoir host for the virus.
+
+2.   Camels serve as the main animal reservoir for MERS-CoV. (2 points)
+
+    Correct, they pass the virus to humans
+
+3.  Humans are dead-end hosts for MERS-CoV. (2 points)
+
+    Correct
+
+4.  The estimated case fatality rate for human MERS-CoV infections is approximately 65%. (2 points)
+
+    Incorrect, fatality rate is approximately 35%.
+
+5.  The epidemic curve indicates this is a point source outbreak. (2 points)
+
+    Incorrect, this epicurve show the trend of being propagated
