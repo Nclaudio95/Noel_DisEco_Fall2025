@@ -295,9 +295,11 @@ Which of the following statements about MERS-CoV are correct? *(If it is incorre
 
     No, the MERS-Cov is maintained in camels which are the reservoir host for the virus.
 
-2.   Camels serve as the main animal reservoir for MERS-CoV. (2 points)
+2.  Camels serve as the main animal reservoir for MERS-CoV. (2 points)
 
-    Correct, they pass the virus to humans
+```         
+Correct, they pass the virus to humans
+```
 
 3.  Humans are dead-end hosts for MERS-CoV. (2 points)
 
@@ -310,3 +312,69 @@ Which of the following statements about MERS-CoV are correct? *(If it is incorre
 5.  The epidemic curve indicates this is a point source outbreak. (2 points)
 
     Incorrect, this epicurve show the trend of being propagated
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**Worksheet #5**
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**Worksheet #6**
+
+Worksheet 6: Using QPweb (Quantitative Parasitology) 10 points
+
+\
+A new disease, Vertico, has been detected in fish in two separate ponds. Your task is to analyze the sample data to determine and compare the disease prevalence between the two ponds.
+
+\
+Instructions:\
+1. Determine Prevalence\
+a. Use the online tool QPweb to calculate the prevalence of Vertico in each\
+pond.\
+b. Report the prevalence as a percentage (e.g., 0.35 → 35%).
+
+**Pond 1 ( 30% prevalence for vertico)**
+
+**Pond 2 (6.7% prevalence for vertico)**
+
+\
+2. Calculate the 95% Confidence Interval (CI)\
+a. Use QPweb to calculate the 95% CI for each prevalence estimate.
+
+**Pond 1 (Lower 0.140 (14%) and Upper 0.525 (53%))**
+
+**Pond 2 (Lower 0.003 (0.3%) and Upper 0.302 (32%))**
+
+\
+b. Report the CI values as percentages, rounded meaningfully (e.g., 0.057\
+→ 6%).
+
+**Pond 1 (Lower 14% and Upper 53%)**
+
+**Pond 2 (Lower 0.3% and Upper 32%)**
+
+\
+3. Compare Prevalence Between the Two Ponds
+
+**Pond 1 has a higher prevalence 30% than pond 2 with 6.7%.**
+
+\
+a. Perform a Fisher’s exact test to compare the two prevalence values.
+
+\
+b. Report the p-value.
+
+**The p-value according to Fishers exact test was 0.1987**
+
+\
+c. State whether the difference is statistically significant. i. If p \< 0.05, the difference is statistically significant.
+
+**Not statistically significant. Meaning that there is not statistical difference between both ponds for vertico.**
+
+\
+Deliverables:\
+For each pond, report the following:\
+• Prevalence (%)\
+• 95% CI (%)\
+• Fisher’s exact test p-value\
+• Interpretation (Is the difference statistically significant?)\
