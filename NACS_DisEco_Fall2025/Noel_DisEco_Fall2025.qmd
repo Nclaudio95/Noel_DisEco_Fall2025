@@ -377,4 +377,32 @@ For each pond, report the following:\
 • Prevalence (%)\
 • 95% CI (%)\
 • Fisher’s exact test p-value\
-• Interpretation (Is the difference statistically significant?)\
+• Interpretation (Is the difference statistically significant?)
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**Worksheet #7**
+
+**1-** Nipah Virus Nipah virus ecology varies across regions, resulting in distinct patterns of transmission in places like Malaysia and Bangladesh. Describe how the modes of transmission differ between these two regions and explain how these differences influence the preventive measures recommended in each setting. **8 points**
+
+**Malaysia:** happened because of the intermediate host which are pigs who got infected from fruit bats. Prevention is mainly biosecurity of pig farms limiting the interaction of bats with pigs.
+
+**Bangladesh:** happened during the harvesting of date palm sap with cases being from eating the raw sap. Discouraging the bats from consuming the sap using covers.
+
+They differ in the way people got infected. Even though both are caused by bats on is through "food" and the other is through the pig.
+
+**2-** Avian Reovirus Avian reoviruses (ARV) can be transmitted through multiple routes. Describe the different transmission routes of ARV and explain which environmental factors favor its transmission. What pathogen characteristics support one of these transmission routes? Finally, provide an example of a wild bird disease caused by ARV and briefly describe its impact on the affected population. **6 points**
+
+**Transmission routes:** Fecal-oral,contaminated water with feces, aerosolized particles, direct contact with infected flock or birds and transovarial from the bird to the egg.
+
+**Environmental factors:** Bird density (crowding increases chance of infection), fomites (any tool used in the bird management), poor litter management. Pathogen is environmentally stable meaning it can persist in contaminated litter.
+
+**Example:** Winter die-off of crows in North America
+
+**3-** Langya henipavirus Langya henipavirus (LayV) is an emerging zoonotic virus first identified in China. Describe the likely reservoir and transmission route of Langya virus. Why is LayV classified as a spillover and not a potential EID? **6 points**
+
+The likely reservoir for this virus is a shrew. Transmission is likely direct and indirect contact with the animal itself either with feces or contaminated food. The cases are locally in China and are sporadic so its considered a spillover to humans but the virus is not currently evolving for human to human adaptation.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+\
