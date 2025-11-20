@@ -406,3 +406,37 @@ The likely reservoir for this virus is a shrew. Transmission is likely direct an
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 \
+**Worksheet #8**
+
+30 points
+
+The data you will examine for this worksheet assignment is real. It derives from an examination of raccoon roundworm (*Baylisascaris procyonis*), a nematode worm found in the course of necropsies of 61 raccoons collected in Missouri and Arkansas during 2013 and 2014.
+
+Download data (WS7_data.csv) from my Github repository: <https://github.com/anyadoc/audiseco/blob/main/WS7_data.csv>
+
+Some background on *B. procyonis*:
+
+-   Raccoons are definitive hosts.
+
+-   Adult worms reside in the raccoon intestine where they lay eggs which pass out of the host in the feces. These eggs may then be transmitted to other raccoons or to non-raccoon hosts.
+
+-   In paratenic or accidental hosts (including humans), eggs hatch to larvae, and larval stages of the nematode migrate, and cause damage to nervous-system tissues, resulting in morbidity & mortality. See e.g.: <https://www.jstor.org/stable/pdf/3285578.pdf>
+
+-   As a risk to humans, wildlife, and domestic animals there is a need to better understand the ecology of this parasite
+
+The dataset is comprised of information collected on 61 raccoons, each of which was necropsied and the number of roundworms counted. For each host there is data on the date of capture, the region (North, Central and South), the sex (male, female) and the age (adult, young adult). The last column gives the number of worms found during necropsy. Zero (0) worms indicates the raccoon was not found to be infected. Note that the necropsy data is real.
+
+You have to analyze and summarize this data. Identify the patterns that emerge and use the available data to explain the patterns. Analyze this dataset to determine prevalence patterns and perform meaningful comparisons between different groups. For example, you can compare prevalence of *B. procyonis* between the three regions, between males and females in each region, between age classes in each region, etc. Please show your work, use Quantitative Parasitology for your calculations and comparisons. Provide confidence intervals for prevalence estimates. Finally, explain your analysis of this real-world data.
+
+Refer to the PDF document available on QPweb titled **“How to Organize a Data Set: Essentials Before Upload.”**
+
+**Analysis Based on sex**
+
+The prevalence of *B. procyonis* in Females was **0.649** with 24 having tested positive for the parasite in a population of 37 females. Confidence intervals ( Lower **0.486** Upper **0.786**).
+
+The prevalence of *B. procyonis* was **0.377** with 26 having tested positive for the parasite in a population of 69 males. Confidence intervals ( Lower **0.267** Upper **0.500**).
+
+**Concluding remark:** Females presented a higher prevalence of the parasite when compared to their male counterparts with a prevalence of **0.649.** When comparing both females with males there was a trend of higher counts of the parasite in females. Interestingly on other sources it is stated that male raccoons tend to be more prone to the parasite than the females but it depends on the season and behavioral differences based on sex. February also had higher numbers.
+
+\
+\
