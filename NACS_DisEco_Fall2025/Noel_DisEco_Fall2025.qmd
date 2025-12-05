@@ -121,7 +121,9 @@ On **06/15/25** the incidence was the lowest cause there was 0 reported new case
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-# **Tick Identification Lab (October 8, 2025)**
+# **Tick Identification Lab** 
+
+**(October 8, 2025)**
 
 In the first part of the lab, we examined different life stages of lone star ticks by counting the number of legs given that they're arachnids. One specimen had six legs, identifying it as a larva, while two specimens had eight legs, this indicated they were either nymphs or adults. In the second part, we differentiated male and female lone star ticks based on the scutum's appearance. The male was shinier and displayed a distinct white splotch or star, whereas the female had a softer appearance with visible lines on the scutum. The bottom specimen was identified as the male and the top specimen as the female.
 
@@ -129,7 +131,9 @@ For the third slide, we focused on determining the genus by observing the positi
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-# **Make up midterm exam questions (Oct 15,2025)**
+# **Make up midterm exam questions** 
+
+**(Oct 15,2025)**
 
 **\
 \
@@ -493,9 +497,7 @@ What are the key challenges associated with the surveillance and management of S
 
 # **Final Exam** 
 
-Noel Claudio-Soto
-
-**December 4th, 2025**
+**Noel Claudio-Soto** **December 4th, 2025**
 
  **1**. True or False. If false, explain why the statement is incorrect (**10 points**) 
 
@@ -575,23 +577,25 @@ b.  Which month had the highest prevalence? Which month had the lowest prevalenc
 
 5\. A beaver carcass was found at the Gunnison River Whitewater Park, Gunnison, Colorado in October 2025. Samples collected during the postmortem examination were submitted to the Veterinary Diagnostic Lab. The lab reported that the animal was positive for **Tularemia.** 
 
-**Answers question 5:** a. Name the etiological agent of this disease. What subspecies of this agent causes Tularemia in aquatic animals like beavers? (**2 points**) 
+**Answers question 5:**
 
-***Franscisella tularensis subspecies holartica*** **is the subspecies that has the aquatic cycle.**
+a\. Name the etiological agent of this disease. What subspecies of this agent causes Tularemia in aquatic animals like beavers? (**2 points**) 
+
+***Franscisella tularensis subspecies holartica*** **is the subspecies that has the aquatic cycle in animals like beavers.**
 
 b\. What are the different routes of transmission for this agent? (**2 points**) 
 
 **1-Airborne transmission through dust particles or fur.**
 
-**2- vector borne ( through mosquitos, biting flies and ticks)**
+**2- vector borne ( through mosquitoes, biting flies and ticks)**
 
-**3- contaminated water or food (Oropharyngeal tularemia)**
+**3- contaminated water or food**
 
 **4- direct contact with the infected or dead animal (bites or infected animal tissue).**
 
 c.  Describe key features/characteristics of this pathogen in the context of human health/ public health.
 
-**Its a pathogen considered to be a Class A bioterrorism agent for its low infectious dose a multi-route transmission.**
+**Its a pathogen considered to be a Class A bio-terrorism agent for its low infectious dose a multi-route transmission. It can be treated with high doses of antibiotics but resistant strains of *F. tularensis* currently exist which can pose a a health concern.**
 
 6\. Match the following (**5 points**) 
 
@@ -611,7 +615,7 @@ e\. Bell’s palsy, Bulls-eye rash 5. *Pseudogymnoascus destructans*
 
 **a-5** **( Fungal pathogen of conservation of concern : *Pseudogymnoascus destructans*)**
 
-**b-4 (Avian Vacuolara Myelinopathy: Aetokthonotoxin)**
+**b-4 (Avian Vacuolar Myelinopathy: Aetokthonotoxin)**
 
 **c-1 (Tick-transmitted viral disease: Powassan encephalitis)**
 
@@ -631,21 +635,17 @@ c.  Lyme disease risk posed by host-seeking nymphs of *I. scapularis* is greates
 
 d.  The natural reservoir and competent hosts of *Borrelia burgdorferi* in North America: **White footed mouse**. White-tailed deer are the preferred **host** in the Lyme disease system. 
 
-<!-- -->
-
 8.  Georgia has a white-tailed deer population of \~ **1 million**. A total of **1351** samples from hunter-harvested deer were tested for Chronic Wasting Disease in 2022. None of the samples tested positive for CWD. Using the hypergeometric distribution, Georgia DNR determines that CWD is not present above **0.2%** prevalence in Georgia’s white-tailed deer population. You are asked to comment on Georgia DNR’s CWD surveillance approach. In your commentary, explain the downside of using hypergeometric distribution for making decisions about wildlife disease surveillance. (**10 points**)
 
-**Answer:**
+**Answer for question 8:**
 
-**The hypergeometric distribution (Cannon & Roe 1982) as discussed in class is used to determine the sample size needed to be sampled to detect a specific disease.**
+**The hypergeometric distribution (Cannon & Roe 1982) as discussed in class is used to determine the sample size needed to be sampled to detect a specific disease. My comment would be "The downside to this approach is that it assumes a perfect detection and controlled sampling with a finite population, the sampling was random but somewhat biased because the samples were from harvested deer which hunters pick out out of preference. The problem with CWD is that in order to test for it the animal has to be euthanized because currently there is not test for CWD on live animals. The hypergeometric distribution is a mathematical model that can predict the sample size needed to detect at least one case. It is based on probability"**
 
-**My comment would be "The downside to this approach is that it assumes a perfect detection and controlled sampling with a finite population, the sampling was random but somewhat biased because the samples were from harvested deer which hunters pick out out of preference. The problem with CWD is that in order to test for it the animal has to be euthanized because currently there is not test for CWD on live animals. The hypergeometric distribution is a mathematical model that can predict the sample size needed to detect at least one case. It is based on probability"**
-
-9\.
+9.  Place the following diseases in appropriate quadrants in the above figure. Explain your choice of quadrants. (**10 points**) 
 
 ![](images/clipboard-492094232.png)
 
-Place the following diseases in appropriate quadrants in the above figure. Explain your choice of quadrants. (**10 points**) 
+ 
 
 **Answers for question 9**
 
@@ -663,27 +663,27 @@ a\. **SARS-CoV-2-Potential Emerging Infectious disease, A case of spillover that
 
 ![](images/clipboard-3085602545.png) **Answer for question 10**
 
-**Definitive host: Marine mammals, the mammal ingest the infected crustacean or fish and the parasite reproduces. The mammal sheds the eggs into the water in whihc they molt, hatch and the larvae infects the crustacean.**
+**Definitive host:** Marine mammals, the mammal ingest the infected crustacean or fish and the parasite reproduces. The mammal sheds the eggs into the water in whihc they molt, hatch and the larvae infects the crustacean.
 
-**Dead-end host: Humans, can become infected but the worm is not able to reproduce.**
+**Dead-end host:** Humans, can become infected but the worm is not able to reproduce.
 
-**Paratenic host: sea fish and cephalopods, can carry the parasite but in the life cycle is not visible that the parasite is able to reproduce.**
+**Paratenic host:** sea fish and cephalopods, can carry the parasite but in the life cycle is not visible that the parasite is able to reproduce.
 
-**Intermediate host: crustaceans, carry the L3 free living larvae**
+**Intermediate host:** crustaceans, carry the L3 free living larvae
 
 11\. All infected hosts are diseased. Comment using appropriate examples. (**3 points**) 
 
-**Answer question 11:** **False, some host may be infected but not diseased. Some animal acts as reservoirs to keep the pathogen in circulation in the environment. Example: Lyme** **disease, mice can get infected with Borrelia but not be diseased. Water fowl can also be another example. They act as reservoirs for the virus but do not present disease. Contrasting this, poultry can become diseased from the virus. In other cases you can have that the infected animal is diseased. Tularemia in rabbits and other rodents present signs and symptoms with the animal ultimately dying from it.**
+**Answer question 11:** **False, some host may be infected but not diseased. Some animal acts as reservoirs to keep the pathogen in circulation in the environment. Example: Lyme** **disease, mice can get infected with Borrelia but not be diseased. Water fowl can also be another example with avian influenza. They act as reservoirs for the virus but do not present disease. Contrasting this, poultry can become diseased from the virus. In other cases you can have that the infected animal is diseased. Tularemia in rabbits and other rodents present signs and symptoms with the animal ultimately dying from it.**
 
 12. Klepac et al. estimated an R0 of 2.5 for the 2002 Phocine Distemper virus epidemic in Dutch harbor seals. Assuming that an effective PDV vaccine is available, what proportion of the seal population should be vaccinated to prevent a future outbreak of PDV? (**3 points**) 
 
-Data:
+**Data:**
 
-R0: 2.5
+**R0: 2.5**
 
-1/R0 is the threshold for an outbreak to occur
+**1/R0 is the threshold for an outbreak to occur**
 
-1/2.5= 0.4
+**1/2.5= 0.4**
 
 **Equation of herd immunity: 1-1/R0**
 
@@ -691,7 +691,7 @@ R0: 2.5
 
 13. What are some of the main challenges in managing wildlife diseases? Explain using relevant examples. (**6 points**)
 
-**Answer for question 13: Wildlife is widespread so managing diseases becomes difficult due to the fact that nature is not a closed system that we can constantly monitor. Animals natural behavior ( snake fungal disease) the snakes secretive nature makes it difficult for surveillance. The environment also plays a factor in how the disease interacts with the host ( *Pasteurella* with Saiga antelope), Hanta virus and El Nino 1992 created a population density increase. In the wild animals can roam freely creating a complex cycle of host-microbial interaction that can have many variables for a successful disease outbreak. Anthropogenic effects also play a role in the management of wildlife diseases with urban areas expanding into already established ecosystems creates a niche overlap that can cause spillovers into humans with animals that are not normally in close proximity to humans, livestock or pets.**
+**Answer for question 13: Wildlife is widespread so managing diseases becomes difficult due to the fact that nature is not a closed system that we can constantly monitor. Animals natural behavior as in the case of snake fungal disease, the snakes secretive nature makes it difficult for surveillance. The environment also plays a factor in how the disease interacts with the host ( *Pasteurella* with Saiga antelope), Hanta virus and El Nino 1992 created a population density increase. In the wild, animals can roam freely creating a complex cycle of host-microbial interaction that can have many variables for a successful disease outbreak. Anthropogenic effects also play a role in the management of wildlife diseases with urban areas expanding into already established ecosystems creates a niche overlap that can cause spillovers into humans with animals that are not normally in close proximity to humans, livestock or pets.**
 
 \
 \
